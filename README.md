@@ -4,8 +4,8 @@ A machine learning project designed to classify and segment customers using data
 
 ## 📂 Project Files
 
-- **customer_data.xlsx** – Source dataset containing customer records and features
-- **segmentation_analysis.ipynb** – Jupyter Notebook with data cleaning, exploration, model training, and results
+- **OnlineRetail.xlsx** – Source dataset containing customer records and features
+- **Traitementmodele.ipynb** – Jupyter Notebook with data cleaning, exploration, model training, and results
 - **README.md** – Overview and instructions
 
 ## 🚀 Features
@@ -47,11 +47,6 @@ After running the notebook, you’ll find:
 - Customer class predictions
 - Group segmentation summaries
 
-## ✨ Example Output
-
-*(Add screenshots or charts of your best findings here if possible!)*
-
-## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests for improvements or fixes.
 
